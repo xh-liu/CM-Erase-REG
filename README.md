@@ -1,5 +1,7 @@
 # Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing
 
+Code for the CVPR 2019 Paper [Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing](https://arxiv.org/pdf/1903.00839.pdf)
+
 ## Prerequisites
 
 * Python 2.7
