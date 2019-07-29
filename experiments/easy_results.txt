@@ -1,0 +1,1 @@
+[refcocog_umd][val], id[cocog_mrcn_cmr_with_st_batch24_erase_lang_visual22_lr8e-4_weight100.5_from214330-20181106_201752]'s acc is 80.23%
