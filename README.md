@@ -91,6 +91,16 @@ If you find our code useful for your research, please consider citing:
   year={2019}
 }
 ```
+```
+@inproceedings{yu2018mattnet,
+  title={Mattnet: Modular attention network for referring expression comprehension},
+  author={Yu, Licheng and Lin, Zhe and Shen, Xiaohui and Yang, Jimei and Lu, Xin and Bansal, Mohit and Berg, Tamara L},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1307--1315},
+  year={2018}
+}
+
+```
 
 ## Acknowledgement 
 
