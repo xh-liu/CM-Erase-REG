@@ -3,7 +3,6 @@
 output/
 data
 cache/
-pyutils/*
 logs/
 tb_logs/
 resnet101.pth
